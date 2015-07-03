@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLibrary", "DynamicLibrary\DynamicLibrary.vcxproj", "{0B68B409-C298-49E5-9AFE-E7DDD4007D44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyExecRefsDll", "MyExecRefsDll\MyExecRefsDll.vcxproj", "{13CA0EA7-5AA6-4B77-BC41-306A968F9141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B68B409-C298-49E5-9AFE-E7DDD4007D44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B68B409-C298-49E5-9AFE-E7DDD4007D44}.Debug|Win32.Build.0 = Debug|Win32
+		{0B68B409-C298-49E5-9AFE-E7DDD4007D44}.Release|Win32.ActiveCfg = Release|Win32
+		{0B68B409-C298-49E5-9AFE-E7DDD4007D44}.Release|Win32.Build.0 = Release|Win32
+		{13CA0EA7-5AA6-4B77-BC41-306A968F9141}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13CA0EA7-5AA6-4B77-BC41-306A968F9141}.Debug|Win32.Build.0 = Debug|Win32
+		{13CA0EA7-5AA6-4B77-BC41-306A968F9141}.Release|Win32.ActiveCfg = Release|Win32
+		{13CA0EA7-5AA6-4B77-BC41-306A968F9141}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
